@@ -1,6 +1,6 @@
 # send-arp
 
-Befor ARP
+Before ARP
 
 ![변경후](https://github.com/tis226/send-arp/assets/103230890/8c00cabd-9ca5-476a-b473-c0b2c0cdec06)
 
